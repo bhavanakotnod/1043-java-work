@@ -5,8 +5,8 @@ public class TypeCasting {
 		
 		/*there are two types of Type csting
 		 
-		  1    Implicit
-		  2    Explicit = its forcefully convert the one data type to another data type here data loss is occour
+		  1    Implicit casting is also called as widening
+		  2    Explicit (narrowing) = its forcefully convert the one data type to another data type here data loss is occour
 		 
 		  
 		 */
