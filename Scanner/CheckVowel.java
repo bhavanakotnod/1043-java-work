@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class CheckVowel {
 	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 		//taking input from user
 		System.out.println("Enter a Character");
