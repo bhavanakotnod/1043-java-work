@@ -1,5 +1,6 @@
 package com.polymorphism;
-
+// method overloading
+//same method name, same class but different parameter
 public class Calculate {
 	private void add(int a ,int b) {
 		int sum = a+b;
