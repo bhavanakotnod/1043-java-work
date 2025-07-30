@@ -1,5 +1,5 @@
 package com.tka.loop;
-
+//Fibonacci series (1,2,3,5,8,13.......)
 public class FibonacciSeries {
 	public static void main(String[] args) {
 		// first number
