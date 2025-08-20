@@ -2,7 +2,7 @@ package com.polymorphism;
 
 //method override 
 //different class (inherited class) (extends keyword), same method name , same parameter 
-
+// child class or subclass is Sound
 public class Sounds  extends Animal{
 	public void sound() {
 		System.out.println("sound of cat Meow-Meow");
@@ -16,3 +16,4 @@ public class Sounds  extends Animal{
 	}
 
 }
+
