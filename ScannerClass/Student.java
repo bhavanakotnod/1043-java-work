@@ -2,6 +2,8 @@ package ScannerClass;
 import java.util.Scanner;
 public class Student {
 	public static void main(String[] args) {
+
+		//Scanner class is used to enter a input from users
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Enter a student name");
@@ -16,7 +18,7 @@ public class Student {
 		int phy = sc.nextInt();
 		System.out.println("bio");
 		int bio = sc.nextInt();
-		
+		//created object of the class
 		Student_Details s = new Student_Details();
 		s.total(math, phy, bio);
 		Student_Details s1 = new Student_Details();
@@ -30,3 +32,4 @@ public class Student {
 	}
 
 }
+
