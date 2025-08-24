@@ -1,4 +1,4 @@
-
+//check condition
 public class Ifcondition {
 	public static void main(String args[])
 	{
@@ -9,3 +9,4 @@ public class Ifcondition {
 	}
 
 }
+
