@@ -1,6 +1,11 @@
 package com.Encapsulation;
 
+//performing encapsulation
+//making global variable private
+//using getter and setter method
+
 public class Student {
+	//instance variable
 	private int roll_no;
 	private String stu_name;
 	private String branch;
@@ -35,3 +40,4 @@ public class Student {
 	}
 
 }
+
