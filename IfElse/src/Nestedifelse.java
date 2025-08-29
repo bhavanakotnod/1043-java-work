@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// nested if else 
 public class Nestedifelse {
 	public static void main(String[] args) { 
 		int marksObtained, passingMarks; 
@@ -7,7 +8,7 @@ public class Nestedifelse {
 		Scanner input = new Scanner(System.in); 
 		System.out.println("Input marks scored by you"); 
 		marksObtained = input.nextInt(); 
-		if (marksObtained >= passingMarks) { 
+		if (marksObtained >= passingMarks) {    //if this condition is true then it goes next if condition , if it is false then it skip this block
 		if (marksObtained > 90) 
 		grade = 'A'; 
 		else if (marksObtained > 75) 
@@ -24,6 +25,7 @@ public class Nestedifelse {
 		} 
 		} 
 		} 
+
 
 
 
