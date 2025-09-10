@@ -9,9 +9,11 @@ public class Circle {
 		
 	}
 	public static void main(String[] args) {
+		//object creation of the method
 		Circle c = new Circle(4); 
 		System.out.println("--------------------------------");
 		Circle c1 = new Circle(7); 
 	}
 
 }
+
